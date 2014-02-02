@@ -1,0 +1,22 @@
+{
+  "authors": [
+    {
+      "email": "zulfajuniadi@gmail.com",
+      "name": "Zulfa Juniadi bin Zulkifli"
+    }
+  ],
+  "autoload": {
+    "psr-0": {
+      "Zulfajuniadi\\WatchLess": "src/"
+    }
+  },
+  "description": "",
+  "minimum-stability": "dev",
+  "name": "zulfajuniadi/laravel-watch-less",
+  "require": {
+    "illuminate/support": "4.1.x",
+    "php": ">=5.3.0",
+    "Zulfajuniadi/Watch": "dev-master",
+    "oyejorge/less.php": "~1.5"
+  }
+}
