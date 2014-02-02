@@ -16,7 +16,7 @@
   "require": {
     "illuminate/support": "4.1.x",
     "php": ">=5.3.0",
-    "Zulfajuniadi/Watch": "dev-master",
-    "oyejorge/less.php": "~1.5"
+    "oyejorge/less.php": "~1.5",
+    "zulfajuniadi/laravel-watch": "dev-master"
   }
 }
